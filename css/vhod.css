@@ -244,7 +244,7 @@ footer{
 
     .main_tat{
         gap: 5px;
-        flex-direction: column;
+        flex-direction: row;
         padding: 5px;
         align-items: center;
         font-size: 13px;
